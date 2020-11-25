@@ -1,11 +1,10 @@
 # The Nature of Code, Spring 2021
-The Nature of Code
 
 Can we capture the unpredictable evolutionary and emergent properties of nature in software? Can understanding the mathematical principles behind our physical world help us to create digital worlds? This online, asynchronous course focuses on the programming strategies and techniques behind computer simulations of natural systems. Topics explored range from mathematics and physics to simulations of complex systems. Subjects covered include motion, forces, trigonometry, fractals, cellular automata, genetic algorithms, and neural networks. Examples are demonstrated in JavaScript using the p5.js library. This course requires Introduction to Computational Media or equivalent (one semester of programming experience.)
 
-The course will be presented as a series of 10 asynchronous modules. The material for each module will include a written chapter from the draft 2nd edition of The Nature of Code (PDF) and ~1-2 hours of video tutorials. Students can choose the format that suits them best. Students will complete one open-ended creative coding exercise for each module along with written documentation in the form of a blog post. At the end of the semester, students will develop and produce a final project. 
+The class will be taught asynchronously meaning lectures will be available online, discussion will take place online and assignments should be submitted online. The material for each module will include a written chapter from the draft 2nd edition of The Nature of Code (PDF) and ~1-2 hours of video tutorials. Students can choose the format that suits them best. Students will complete one open-ended creative coding exercise for each module along with written documentation in the form of a blog post. At the end of the semester, students will develop and produce a final project. 
 
-In addition to the asynchronous material and assignments, there will be periodic coding help and homework discussion sessions for the students to attend on Zoom. 
+In addition to the asynchronous material and assignments, there will be weekly office hours and discussion sessions for students to ask questions and share work. These optional sessions will be scheduled to accommodate time zones. 
 
 ## Info
 - Daniel Shiffman
