@@ -41,3 +41,31 @@ For each module, I will provide a list of additional video tutorials and reading
 
 - 🚂 [Diffusion-Limited Aggregation](https://youtu.be/Cl_Gjj80gPE)
 - 🚂 [Random Walker with Vectors and Lévy Flight](https://youtu.be/bqF9w9TTfeo?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 16 min (note vectors will be explored in detail in Module 1)
+
+## Assignment
+
+Using the random walker as a model, develop a sketch that experiments with motion. Here are some ideas but you should feel free to develop your own.
+
+- Use a random walker to "paint" colors.
+- Try a walk in 3D, see [Quantum Cloud](http://en.wikipedia.org/wiki/Quantum_Cloud) for an example.
+- Create a random walker with dynamic probabilities. For example, can you give it a 50% chance of moving in the direction of the mouse?
+- Try implementing a [self-avoiding walk](http://en.wikipedia.org/wiki/Self-avoiding_walk). This one is really hard!
+- Create a variation on the [a Levy Flight](http://en.wikipedia.org/wiki/L%C3%A9vy_flight).
+- Create an array of `Walker` objects. Try adding a new object when you click the mouse.
+- Use the random walker as a template to simulate some real-world "natural" motion. Can you develop a set of rules for simulating that behavior? Ideas: nervous fly, hopping bunny, slithering snake, etc. Consider the challenge of using minimal visual design, i.e. black and white primitive shapes. Can you give your "being" a personality? Can it express emotions -- happiness, sadness, fear?
+
+Another way of thinking about the assignment is to apply the rules of motion to another medium of expression: sound, color, number, scale...
+
+- Walk through RGB or HSB space (as opposed to XYZ)
+- Walk through Pan, Amplitude, Pitch (as opposed to XYZ)
+- Plot an "orchestra" of instruments on an XY plane and move a melody through it like.
+- Create a constantly morphing creature shape using `createShape()` and `vertex()`. Play with how you change the number of vertices, anchor points.
+
+### Instructions
+
+- Document your work on the web with a short blog post. Here are some guiding questions if you are not sure what to write about:
+  - What did you originally intend to create?
+  - Narrate the process of creating your sketch.
+  - What resources and examples did you draw on to create your sketch? What was most helpful / least helpful from this week’s materials.
+  - What problems/discoveries did you encounter along the way?
+- Submit a link to your blog post to the course Brightspace.
