@@ -2,11 +2,12 @@
 
 Can we capture the unpredictable evolutionary and emergent properties of nature in software? Can understanding the mathematical principles behind our physical world help us to create digital worlds? This online, asynchronous course focuses on the programming strategies and techniques behind computer simulations of natural systems. Topics explored range from mathematics and physics to simulations of complex systems. Subjects covered include motion, forces, trigonometry, fractals, cellular automata, genetic algorithms, and neural networks. Examples are demonstrated in JavaScript using the p5.js library. This course requires Introduction to Computational Media or equivalent (one semester of programming experience.)
 
-The class will be taught asynchronously meaning lectures will be available online, discussion will take place online and assignments should be submitted online. The material for each module will include a written chapter from the draft 2nd edition of The Nature of Code (PDF) and ~1-2 hours of video tutorials. Students can choose the format that suits them best. Students will complete one open-ended creative coding exercise for each module along with written documentation in the form of a blog post. At the end of the semester, students will develop and produce a final project. 
+The class will be taught asynchronously meaning lectures will be available online, discussion will take place online and assignments should be submitted online. The material for each module will include a written chapter from the draft 2nd edition of The Nature of Code (PDF) and ~1-2 hours of video tutorials. Students can choose the format that suits them best. Students will complete one open-ended creative coding exercise for each module along with written documentation in the form of a blog post. At the end of the semester, students will develop and produce a final project.
 
-In addition to the asynchronous material and assignments, there will be weekly office hours and discussion sessions for students to ask questions and share work. These optional sessions will be scheduled to accommodate time zones. 
+In addition to the asynchronous material and assignments, there will be weekly office hours and discussion sessions for students to ask questions and share work. These optional sessions will be scheduled to accommodate time zones.
 
 ## Info
+
 - Daniel Shiffman
 - [Code of Conduct](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/)
 - [All class dates](https://itp.nyu.edu/help/sp21-class-dates-deadlines/)
@@ -14,50 +15,53 @@ In addition to the asynchronous material and assignments, there will be weekly o
 
 ## Schedule
 
-### Module 1 - Introduction
+### Module 0 - [Introduction](module00-intro)
 
-### Module 2 - Build a Physics Engine
+### Module 1 - [Vectors](module01-vectors)
 
-### Module 3 - Oscillating Motion
+### Module 2 - [Forces](module02-forces)
 
-### Module 4 - Particle Systems
+### Module 3 - [Oscillating Motion](module03-osc)
 
-### Module 5 - Autonomous Agents
+### Module 4 - [Particle Systems](module04-systems)
 
-### Module 6 - Physics Libraries
+### Module 5 - [Autonomous Agents](module05-agents)
 
-### Simulation Project
+### [Simulation Project](projects/simulation)
 
-### Module 7 - Genetic Algorithms
+### Module 6 - [Cellular Automata](module06-ca)
 
-### Module 8 - Neural Networks
+### Module 7 - [Fractals](module07-fractals)
 
-### Module 9 - Neuro Evolution 
+### Module 8 - [Genetic Algorithms](module08-ga)
 
-### Final Project
+### Module 9 - [Neuro Evolution](module09-neuro)
+
+### [Final Project](projects/final)
+
+## Code of Conduct
+
+This course follows the [ITP/IMA Code of Conduct](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/blob/main/README.md).
 
 ## Land Acknowledgement
 
 This classroom, New York University and Brooklyn, NY is situated on the continuously inhabited land of the Lenni Lenape people. I am making a donation to the [American Indian Community House](https://aich.org/) for the use of this space.
 
 ## Evaluation
-* Please read [ITP's policy on pass/fail](http://help.itp.nyu.edu/academic-policies/pass-fail)
-* You are required to submit all weekly assignments and a final project.
-* Grading (pass/fail) will be based on a combination of factors:
-  * Participation course online community spaces and feedback on other students' projects (20%)
-  * Quality of assignments (60%)
-  * Final Project (20%)
 
-## Course Materials
-* [Nature of Code Book and Website](https://natureofcode.com/)
-* More coming soon!
+- Please read [ITP's policy on pass/fail](http://help.itp.nyu.edu/academic-policies/pass-fail)
+- You are required to submit all weekly assignments and a final project.
+- Grading (pass/fail) will be based on a combination of factors:
+  - Participation course online community spaces and feedback on other students' projects (20%)
+  - Quality of assignments (60%)
+  - Final Project (20%)
 
 ## Statement of Academic Integrity
 
 Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.
 Statement of Principle
 
-The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members. It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice. Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards.  For all the details on plagiarism, please refer to page 10 of the Tisch School of the Arts, Policies and Procedures Handbook, which can be found online at: http://students.tisch.nyu.edu/page/home.html
+The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members. It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice. Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards. For all the details on plagiarism, please refer to page 10 of the Tisch School of the Arts, Policies and Procedures Handbook, which can be found online at: http://students.tisch.nyu.edu/page/home.html
 
 ## Use of Free and Open Source Code from Examples
 
@@ -80,4 +84,4 @@ Your health and safety are a priority at NYU. If you experience any health or me
 
 ## Statement on Title IX
 
-Tisch School of the Arts to dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender.  Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following link: [Title IX at NYU](https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html).
+Tisch School of the Arts to dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender. Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following link: [Title IX at NYU](https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html).
