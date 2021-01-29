@@ -2,7 +2,6 @@
 
 Welcome to the class! This first module is about getting acclimated to the class. What coding language / environment would you like to use? Suggested is p5.js but you are welcome to create your assignments with any language or framework you like.
 
-- [Related and Past Nature of Code Projects](https://github.com/nature-of-code/noc-syllabus-S21/wiki/Related-Work)
 - [Introduction Slides](https://docs.google.com/presentation/d/1cQW-pC2c9kEFse-_g5KHol3DPVtHnHrlMuWKtwunjx4/edit?usp=sharing)
 
 ## Emoji Key
