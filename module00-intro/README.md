@@ -39,7 +39,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Random Walks
 
-- 🚂 [Diffusion-Limited Aggregation](https://youtu.be/Cl_Gjj80gPE)
+- 🚂 [Diffusion-Limited Aggregation](https://youtu.be/Cl_Gjj80gPE) - 47 min
 - 🚂 [Random Walker with Vectors and Lévy Flight](https://youtu.be/bqF9w9TTfeo?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 16 min (note vectors will be explored in detail in Module 1)
 
 ## Assignment
