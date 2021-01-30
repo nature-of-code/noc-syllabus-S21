@@ -6,12 +6,17 @@ The class will be taught asynchronously meaning lectures will be available onlin
 
 In addition to the asynchronous material and assignments, there will be weekly office hours and discussion sessions for students to ask questions and share work. These optional sessions will be scheduled to accommodate time zones.
 
-## Info
+## Code of Conduct
 
-- Daniel Shiffman
-- [Code of Conduct](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/)
-- [All class dates](https://itp.nyu.edu/help/sp21-class-dates-deadlines/)
-- Office Hours (use NYU google calendar appts, link via class mailing list)
+This course follows the [ITP/IMA Code of Conduct](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/blob/main/README.md).
+
+## Land Acknowledgement
+
+This classroom, New York University and Brooklyn, NY is situated on the continuously inhabited land of the Lenni Lenape people. I am making a donation to the [American Indian Community House](https://aich.org/) for the use of this space.
+
+## Office Hours and Help
+
+For information on office hours, help sessions, please see the course Brightspace.
 
 ## Schedule
 
@@ -38,14 +43,6 @@ In addition to the asynchronous material and assignments, there will be weekly o
 ### Module 9 - [Neuro Evolution](module09-neuro)
 
 ### [Final Project](projects/final)
-
-## Code of Conduct
-
-This course follows the [ITP/IMA Code of Conduct](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/blob/main/README.md).
-
-## Land Acknowledgement
-
-This classroom, New York University and Brooklyn, NY is situated on the continuously inhabited land of the Lenni Lenape people. I am making a donation to the [American Indian Community House](https://aich.org/) for the use of this space.
 
 ## Evaluation
 

@@ -2,7 +2,6 @@
 
 Welcome to the class! This first module is about getting acclimated to the class. What coding language / environment would you like to use? Suggested is p5.js but you are welcome to create your assignments with any language or framework you like.
 
-- [Related and Past Nature of Code Projects](https://github.com/nature-of-code/noc-syllabus-S21/wiki/Related-Work)
 - [Introduction Slides](https://docs.google.com/presentation/d/1cQW-pC2c9kEFse-_g5KHol3DPVtHnHrlMuWKtwunjx4/edit?usp=sharing)
 
 ## Emoji Key
@@ -19,7 +18,7 @@ The following emoji key will hopefully help you navigate the material for each m
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around.
 
-- 📕 [PDF: Introduction and Chapter 1 ](https://drive.google.com/open?id=1WPTSvvyaqBvvaD96eAbHE8d8wGP8vjU8)
+- 📕 [PDF: Introduction Draft Edition 2](https://drive.google.com/file/d/14hcaBaHEwyDLO_C5LA0aE5Ay39ltDwUF/view)
 - 🚂 [Introduction to Perlin Noise](https://youtu.be/Qf4dIN99e2w) - 11 min
 - 🚂 [Perlin noise() vs. random()](https://youtu.be/YcdldZ1E9gU) - 10 min
 - 🚂 [Graphing 1D noise](https://youtu.be/y7sgcFhk6ZM) - 13 min
@@ -38,7 +37,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Random Walks
 
-- 🚂 [Diffusion-Limited Aggregation](https://youtu.be/Cl_Gjj80gPE)
+- 🚂 [Diffusion-Limited Aggregation](https://youtu.be/Cl_Gjj80gPE) - 47 min
 - 🚂 [Random Walker with Vectors and Lévy Flight](https://youtu.be/bqF9w9TTfeo?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 16 min (note vectors will be explored in detail in Module 1)
 
 ## Assignment
