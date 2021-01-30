@@ -35,7 +35,7 @@ For each module, I will provide a list of additional video tutorials and reading
 - 🚂 [noiseDetail()](https://youtu.be/D1BBj2VaBl4?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 4 min
 - 🚂 [Open Simplex Noise](https://youtu.be/Lv9gyZZJPE0?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
 
-### Random Walks
+### More about Random Walks
 
 - 🚂 [Diffusion-Limited Aggregation](https://youtu.be/Cl_Gjj80gPE) - 47 min
 - 🚂 [Random Walker with Vectors and Lévy Flight](https://youtu.be/bqF9w9TTfeo?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 16 min (note vectors will be explored in detail in Module 1)
@@ -67,3 +67,4 @@ Another way of thinking about the assignment is to apply the rules of motion to 
   - What resources and examples did you draw on to create your sketch? What was most helpful / least helpful from this week’s materials.
   - What problems/discoveries did you encounter along the way?
 - Submit a link to your blog post to the course Brightspace.
+- Following the instructions in Brightspace, provide feedback on at least two other assigments.
