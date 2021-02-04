@@ -40,6 +40,13 @@ For each module, I will provide a list of additional video tutorials and reading
 - 🚂 [Diffusion-Limited Aggregation](https://youtu.be/Cl_Gjj80gPE) - 47 min
 - 🚂 [Random Walker with Vectors and Lévy Flight](https://youtu.be/bqF9w9TTfeo?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 16 min (note vectors will be explored in detail in Module 1)
 
+### Code Examples
+
+- 💻 [Nature of Code Introduction Example Collection](https://editor.p5js.org/natureofcode/collections/pKi2cbngG)
+- 💻 [Additional Perlin Noise Example Collection](https://editor.p5js.org/codingtrain/collections/qTyT_RX11)
+- 💻 [Diffusion Limited Aggregation](https://editor.p5js.org/codingtrain/sketches/XpS9wGkbB)
+- 💻 [Random Walk Lévy Flight](https://editor.p5js.org/codingtrain/sketches/L24X90MBH)
+
 ## Assignment
 
 Using the random walker as a model, develop a sketch that experiments with motion. Here are some ideas but you should feel free to develop your own.
