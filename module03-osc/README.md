@@ -5,18 +5,28 @@
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
 - 📗 [PDF: Chapter 3: Oscillation](https://drive.google.com/file/d/16FLmR995lyDChKBUmp4qYdb1et6TdV0t/view?usp=sharing)
-- 🚂 [Angles and Rotation](https://youtu.be/DMg-WRfNB60?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 11 min
-- 🚂 [Angular Motion](https://youtu.be/i2ROE_mAhU0?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 10 min
-- 🚂 [Angles and Vectors](https://youtu.be/oXwCVDXS2Lg?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 10 min
-- 🚂 [Polar Coordinates](https://youtu.be/O5wjXoFrau4?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 16 min
-- 🚂 [Simple Harmonic Motion](https://youtu.be/m463X1cqV6s?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 12 min
-- 🚂 [Additive Waves](https://youtu.be/okfZRl4Xw-c?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 13 min
+- 🚂 [Angles and Rotation](https://thecodingtrain.com/learning/nature-of-code/3.1-angles-rotation.html) - 11 min
+- 🚂 [Angular Motion](https://thecodingtrain.com/learning/nature-of-code/3.2-anglular-motion.html) - 10 min
+- 🚂 [Angles and Vectors](https://thecodingtrain.com/learning/nature-of-code/3.3-angles-and-vectors.html) - 10 min
+- 🚂 [Polar Coordinates](https://thecodingtrain.com/learning/nature-of-code/3.4-polar-coordinates.html) - 16 min
+- 🚂 [Simple Harmonic Motion](https://thecodingtrain.com/learning/nature-of-code/3.5-simple-harmonic-motion.html) - 12 min
+- 🚂 [Graphing Sine Wave](https://thecodingtrain.com/learning/nature-of-code/3.6-graphing-sine.html) - 10 min
+- 🚂 [Additive Waves](https://thecodingtrain.com/learning/nature-of-code/3.7-additive-waves.html) - 13 min
 
 ## Supplemental Material
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.
 
 ### Pendulums and Springs
+
+- 🚂 [Pendulum Tutorial Video](https://youtu.be/NBWMtlbbOag) - 22 min
+  - 💻 [Simple Pendulum](https://editor.p5js.org/codingtrain/sketches/SN-39sHAC)
+  - 💻 [Pendulum Class Example](https://editor.p5js.org/natureofcode/sketches/SyXJrlZOl)
+  - 💻 [Array of Pendulums](https://editor.p5js.org/codingtrain/sketches/Bj82tUlIO)
+- 🚂 [Spring Forces Tutorial Video](https://youtu.be/Rr-5HiXquhw) - 32 min
+  - 💻 [Simple Spring](https://editor.p5js.org/codingtrain/sketches/dcd6-2mWa)
+  - 💻 [Spring with Vector](https://editor.p5js.org/codingtrain/sketches/_A2pm_SSg)
+  - 💻 [Spring and Particle Class](https://editor.p5js.org/codingtrain/sketches/9BAoEn4Po)
 
 ### Polar Coordinates
 
@@ -29,14 +39,16 @@ For each module, I will provide a list of additional video tutorials and reading
 - 🎥 [But what is the Fourier Transform? A visual introduction](https://youtu.be/spUNpyF58BY) by 3Blue1Brown - 20 min
 - 🚂 [Fourier Series p5.js](https://thecodingtrain.com/CodingChallenges/125-fourier-series.html) - 28 min
 - 🚂 [Fourier Transform: Drawing with Epicycles Part 1](https://thecodingtrain.com/CodingChallenges/130.1-fourier-transform-drawing.html) - 46 min
-- 🚂 [[Fourier Transform Drawing with Epicycles Part 2](https://thecodingtrain.com/CodingChallenges/130.2-fourier-transform-drawing.html) - 9 min
-- 🚂 [[Fourier Transform Drawing with Epicycles Part 3](https://thecodingtrain.com/CodingChallenges/130.3-fourier-transform-drawing.html) - 25 min
+- 🚂 [Fourier Transform Drawing with Epicycles Part 2](https://thecodingtrain.com/CodingChallenges/130.2-fourier-transform-drawing.html) - 9 min
+- 🚂 [Fourier Transform Drawing with Epicycles Part 3](https://thecodingtrain.com/CodingChallenges/130.3-fourier-transform-drawing.html) - 25 min
 
-### Code Examples
+### Code Example Collections
 
-- Book Examples
-- Video Examples
-- More Examples
+- 💻 [Nature of Code Chapter 3 Book Example Collection](https://editor.p5js.org/natureofcode/collections/evtqpIiTP)
+- 💻 [Nature of Code Chapter 3 Video Example Collection](https://editor.p5js.org/codingtrain/collections/bD7HTvWYL)
+- 💻 [Pendulum and Spring Collection](https://editor.p5js.org/codingtrain/collections/z5Z2btE3f)
+- 💻 [Polar Coordinate Collection](https://editor.p5js.org/codingtrain/collections/tkBBQAsUT)
+- 💻 [Fourier Series/Transform Collection](https://editor.p5js.org/codingtrain/collections/yCcUL8awW)
 
 ## Assignment
 
@@ -51,10 +63,6 @@ The idea for this week is to use trigonometric functions and/or oscillating moti
 - You can use polar coordinates a variety of patterns derived from the points along the contours of a circle. Visualize your own pattern. Feel free to [start from any of these examples](#polar-coordinates).
 - You might also google "parametric equations" to find one not in the examples above like this [heart GIF](https://twitter.com/shiffman/status/1095764239665512453).
 
-### The Fourier Transform and Epicycles
-
-- [A fourier transform](https://github.com/nature-of-code/noc-syllabus-S19/tree/master/week03-oscillation#fourier-series-and-transforms) decomposes a "signal" into a series of wave patterns. Try applying the fourier transform to your own data and visualize the wave patterns.
-
 ### Angles and Forces
 
 - Create a simulation where objects are shot out of a cannon. Each object should experience a sudden force when shot (just once) as well as gravity (always present). Add rotation to the object to model its spin as its shot from the cannon. How realistic can you make it look? [example solution](https://editor.p5js.org/natureofcode/sketches/H1E3qk5Lz)
@@ -62,10 +70,9 @@ The idea for this week is to use trigonometric functions and/or oscillating moti
 
 ### Pendulums and Springs
 
-- Visualize an array of pendulums [INCLUDE VIDEO AND CODE EXAMPLE]
-- Visualize the path of a double pendulum [INCLUDE VIDEO AND CODE EXAMPLE]
-- Design a form as a series of connected particles and springs. [INCLUDE VIDEO AND CODE EXAMPLE]
-- Apply other forces (liquid drag, wind) to the spring or pendulum simulations.
+- Visualize an array of pendulums. For a start, here is [an example multi-pendulum visualization](https://editor.p5js.org/codingtrain/sketches/Bj82tUlIO) along with [live stream archive](https://youtu.be/dpqNqyQCcbY?t=1684).
+- Visualize the path of a [double pendulum](https://thecodingtrain.com/CodingChallenges/093-double-pendulum.html).
+- Create a system of connected particles and springs.[VIDEO TUTORIAL COMING SOON]
 
 ### Oscillation in other mediums
 
