@@ -56,11 +56,11 @@ The idea for this week is to use trigonometric functions and/or oscillating moti
 
 ### Oscillation
 
-- Design a creature with oscillating parts (legs, wings, antennae, etc.) Consider tying the speed of oscillation to the speed of the creature's linear motion. Can you make it appear that the creature's internal mechanics (oscillation) drive its locomotion? [EXAMPLE SOLUTION AND ACCOMPANYING VIDEO TO COME]
+- Design a creature with oscillating parts (legs, wings, antennae, etc.) Consider tying the speed of oscillation to the speed of the creature's linear motion. Can you make it appear that the creature's internal mechanics (oscillation) drive its locomotion? Here is an extra [video about the oscillation exercise](https://youtu.be/0iKhdHlF6hs) and along with [the oscillation exercise code](https://editor.p5js.org/codingtrain/sketches/Qn8WVv6PN).
 
 ### Polar Coordinate Designs
 
-- You can use polar coordinates a variety of patterns derived from the points along the contours of a circle. Visualize your own pattern. Feel free to [start from any of these examples](#polar-coordinates).
+- You can use polar coordinates a variety of patterns derived from the points along the contours of a circle. Visualize your own pattern. Feel free to [start from any of these polar coordinate examples](#polar-coordinates).
 - You might also google "parametric equations" to find one not in the examples above like this [heart GIF](https://twitter.com/shiffman/status/1095764239665512453).
 
 ### Angles and Forces
@@ -72,7 +72,7 @@ The idea for this week is to use trigonometric functions and/or oscillating moti
 
 - Visualize an array of pendulums. For a start, here is [an example multi-pendulum visualization](https://editor.p5js.org/codingtrain/sketches/Bj82tUlIO) along with [live stream archive](https://youtu.be/dpqNqyQCcbY?t=1684).
 - Visualize the path of a [double pendulum](https://thecodingtrain.com/CodingChallenges/093-double-pendulum.html).
-- Create a system of connected particles and springs.[VIDEO TUTORIAL COMING SOON]
+- Create a system of [connected particles and springs](https://thecodingtrain.com/CodingChallenges/160-spring-forces.html).
 
 ### Oscillation in other mediums
 
