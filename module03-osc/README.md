@@ -6,7 +6,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 - 📗 [PDF: Chapter 3: Oscillation](https://drive.google.com/file/d/16FLmR995lyDChKBUmp4qYdb1et6TdV0t/view?usp=sharing)
 - 🚂 [Angles and Rotation](https://thecodingtrain.com/learning/nature-of-code/3.1-angles-rotation.html) - 11 min
-- 🚂 [Angular Motion](https://thecodingtrain.com/learning/nature-of-code/3.2-anglular-motion.html) - 10 min
+- 🚂 [Angular Motion](https://thecodingtrain.com/learning/nature-of-code/3.2-angular-motion.html) - 10 min
 - 🚂 [Angles and Vectors](https://thecodingtrain.com/learning/nature-of-code/3.3-angles-and-vectors.html) - 10 min
 - 🚂 [Polar Coordinates](https://thecodingtrain.com/learning/nature-of-code/3.4-polar-coordinates.html) - 16 min
 - 🚂 [Simple Harmonic Motion](https://thecodingtrain.com/learning/nature-of-code/3.5-simple-harmonic-motion.html) - 12 min
