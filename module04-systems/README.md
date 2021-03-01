@@ -21,13 +21,13 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Arrays of Objects Review
 
-- []()
-- []()
+- 🚂 [Arrays of Objects](https://thecodingtrain.com/beginners/p5js/7.3-array-of-objects.html)
+- 🚂 [Removing Objects from Array](https://thecodingtrain.com/beginners/p5js/7.5-removing-objects-from-array.html)
 
 ### Inheritance and Polymorphism
 
-- []()
-- []()
+- 🚂 [Inheritance in JavaScript](https://youtu.be/MfxBfRD0FVU)
+- 🚂 [Polymorphism in JavaScript](https://youtu.be/8a5BkwuZRK0)
 - 📕 [How my Dog learned Polymorphism](http://www.javaranch.com/campfire/StoryPoly.jsp)
 
 ### Higher-Order Array Functions
@@ -38,7 +38,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ## Assignment
 
-- See Simulation Project
+- [Simulation Project](https://github.com/nature-of-code/noc-syllabus-S21/tree/main/projects/simulation) - due March 15
 
 ## Emoji Key
 
