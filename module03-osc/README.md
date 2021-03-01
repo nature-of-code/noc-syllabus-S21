@@ -1,4 +1,4 @@
-# Oscillation Motion
+# Oscillating Motion
 
 ## Core Material
 
