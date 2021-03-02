@@ -6,8 +6,8 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 - 📗 [PDF: Chapter 4: Particle Systems](https://drive.google.com/file/d/1NqQu78p0G6i85zace57RF1gHD3tCp9gc/view?usp=sharing)
 - 🚂 [Particle Class](https://drive.google.com/file/d/1qeDOD3nCu_5YX62lkSZWiG-GNDVZtFUP/view?usp=sharing) - 10 min
-- 🚂 [Particle Emitter Class](https://drive.google.com/file/d/1qeDOD3nCu_5YX62lkSZWiG-GNDVZtFUP/view?usp=sharing) - 8 min
-- 🚂 [Particle Class with Inheritance](https://drive.google.com/file/d/1U5Qqp806JPOBIUN-97uCAQs56BYStHCh/view?usp=sharing) - 6 min
+- 🚂 [Particle Emitter Class](https://drive.google.com/file/d/13Q8Z2vouZ0LN5Gqr7JYaIT2KUm8UdN3j/view?usp=sharing) - 8 min
+- 🚂 [Particle Class with Inheritance](https://drive.google.com/file/d/1U4IIm6qyllrST3T3GZlwYPfIYQfnhSnN/view?usp=sharing) - 6 min
 - 🚂 [Particle Textures and Blending](https://drive.google.com/file/d/1wIYCbQ2G4GE5QhjjIzRPNpqlcziKRpLG/view?usp=sharing) - 13 min
 
 ## Supplemental Material
