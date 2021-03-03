@@ -5,10 +5,7 @@ Now is the time to take the concepts from the first 6 weeks and apply them to a 
 Here are some ideas for projects / technical exercises if you are feeling stuck:
 
 - Extend one or more of the examples into 3D.
-- Design a simulation of a single creature (that you imagine living in a larger eco-system).
-- Develop a non keyboard/mouse way of interacting with an environment's forces (i.e. video tracking, sensors, etc.)
+- Design a single creature (that you imagine living in a larger eco-system). Consider the design of the creature's physical form and how that animates in addition to its movement throughout the canvas itself.
+- Investigate other interactions (beyond keyboard and mouse) and a physics environment (i.e. computer vision, machine learning, physical computing sensors, etc.)
 - Use physics simulation to fabricate something -- a print, a sculpture, etc.
-- Create a flow field using image/pixel data.
-- Create a flocking simulation where all of the parameters (separation weight, cohesion weight, alignment weight, maximum force, maximum speed) change over time. Two ideas are using Perlin noise or user interaction.
-- Build a creature with countless steering behaviors. Think about ways to vary the weights for these behaviors so that you can dial them up and down, mixing and matching on the fly. How are the creature's initial weights set? What rules drive how the weights change over time?
-- Complex systems can be nested. Can you design a single creature out of a flock of boids? And can you then make a flock of those creatures?
+- Apply the concepts of motion to non-visual media, what does it mean for video playback or sound synthesis to respond to forces and emulate physical behaviors.
