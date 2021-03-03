@@ -10,6 +10,10 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 🚂 [Particle Class with Inheritance](https://drive.google.com/file/d/1U4IIm6qyllrST3T3GZlwYPfIYQfnhSnN/view?usp=sharing) - 6 min
 - 🚂 [Particle Textures and Blending](https://drive.google.com/file/d/1wIYCbQ2G4GE5QhjjIzRPNpqlcziKRpLG/view?usp=sharing) - 13 min
 
+### Code Examples
+- 💻 [Example Code from video tutorials](https://editor.p5js.org/codingtrain/collections/OOySGOizs)
+- 💻 [Example Code from book chapter](https://editor.p5js.org/natureofcode/collections/Ks8jJ80hJ)
+
 ## Supplemental Material
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.
