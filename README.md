@@ -20,29 +20,33 @@ For information on office hours, help sessions, please see the course Brightspac
 
 ## Schedule
 
-### Module 0 - [Introduction](module00-intro)
+### 1: Week of Feb 1 - [Introduction](module00-intro)
 
-### Module 1 - [Vectors](module01-vectors)
+### 2: Week of Feb 8 - [Vectors](module01-vectors)
 
-### Module 2 - [Forces](module02-forces)
+### 3: Week of Feb 15 - [Forces](module02-forces)
 
-### Module 3 - [Oscillating Motion](module03-osc)
+### 4: Week of Feb 22 - [Oscillating Motion](module03-osc)
 
-### Module 4 - [Particle Systems](module04-systems)
+### 5: Week of Mar 1 - [Particle Systems](module04-systems)
 
-### Module 5 - [Autonomous Agents](module05-agents)
+### 6: Week of Mar 8 - [Simulation Project](projects/simulation)
 
-### [Simulation Project](projects/simulation)
+### 7: Week of Mar 15 - [Autonomous Agents Part 1](module05-agents)
 
-### Module 6 - [Cellular Automata](module06-ca)
+### 8: Week of Mar 22 - [Autonomous Agents Part 2](module05-agents)
 
-### Module 7 - [Fractals](module07-fractals)
+### 9: Week of Mar 29 - [Fractals](module07-fractals) and [CA](module06-ca)
 
-### Module 8 - [Genetic Algorithms](module08-ga)
+### 10: Week of Apr 5 - [Genetic Algorithms](module08-ga)
 
-### Module 9 - [Neuro Evolution](module09-neuro)
+### 11: Week of Apr 12 - [Neural Evolution](module09-neuro)
 
-### [Final Project](projects/final)
+### 12: Week of Apr 19 - [Final Project](projects/final)
+
+### 13: Week of Apr 26 - [Final Project](projects/final)
+
+### 14: Week of May 3 - [Final Project](projects/final)
 
 ## Evaluation
 
