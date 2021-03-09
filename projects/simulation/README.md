@@ -1,6 +1,6 @@
 ## Simulation Project
 
-Now is the time to take the concepts from the first 6 weeks and apply them to a project idea. This "mid-semester exercise" can be anything that builds off of or is inspired by the material from the motion and physics material. It does not need to be a "fully realized thing" -- it can be a visual experiment in progress or a piece of a larger project you are building for another context (thesis, another class, etc.). You should also feel free to think non-traditionally, i.e. your project need not be a Processing or p5.js sketch.
+Now is the time to take the concepts from the first 6 weeks and apply them to a project idea. This "mid-semester exercise" can be anything that builds off of or is inspired by the material from the motion and physics material. It does not need to be a "fully realized thing" -- it can be a visual experiment in progress or a piece of a larger project you are building for another context (thesis, another class, etc.). It can be continuation of one of your previous exercises that further develops the concepts there, perhaps inspired by some of the feedback you received or any lingering ideas that you want to explore. You should also feel free to think non-traditionally, i.e. your project need not be a Processing or p5.js sketch.
 
 Here are some ideas for projects / technical exercises if you are feeling stuck:
 
