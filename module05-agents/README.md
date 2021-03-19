@@ -5,35 +5,48 @@
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
 - [Chapter 6 DRAFT p5.js PDF](https://drive.google.com/open?id=1x83NY1z_WvQ6jH3d6En7y8M0mhYrTCLl)
-- 🚂 [New step-by-step tutorials coming soon]
-- 🚂 [Steering Behaviors Coding Challenge: p5.js](https://thecodingtrain.com/CodingChallenges/059-steering-text-paths.html)
-- 🚂 [Perlin Noise Flow Field Coding Challenge: p5.js](https://thecodingtrain.com/CodingChallenges/024-perlinnoiseflowfield.html)
-- 🚂 [Flocking Coding Challenge: p5.js](https://thecodingtrain.com/CodingChallenges/124-flocking-boids.html)
+
+### Part 1: Individual Behaviors Basics
+
+- 🚂 [Introduction to Autonomous Agents](https://drive.google.com/file/d/1_n1Kt-E-7SvJ4Aho6wrWP_8rBQLF7Ckz/view?usp=sharing) - rough cut video, feedback welcome! - ~ 10 min
+- 🚂 [Steering Behaviors: Seeking a Target](https://drive.google.com/file/d/1VmVTeR3DcbybCvB7lr3eC_mwgms8I9dt/view?usp=sharing) - rough cut video, feedback welcome! - ~ 13 min
+- 🚧 Steering Behaviors: Pursue and Evade (coming soon!)
+- 🚧 Steering Behaviors: Arrival (coming soon!)
+- 🚧 Scalar Project and the Vector Dot Product (coming soon!)
+- 🚧 Path Following (coming soon!)
+
+### Part 2: Group and Combined Behaviors
+
+- 🚂 [Steering Behaviors Coding Challenge: p5.js](https://thecodingtrain.com/CodingChallenges/059-steering-text-paths.html) ~30min
+- 🚂 [Flocking Coding Challenge: p5.js](https://thecodingtrain.com/CodingChallenges/124-flocking-boids.html) ~40 min
 
 ## Supplemental Material
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.
 
-## Steering References
+### Flow Field Following and Perlin Noise
 
-- [Reas Process Compendium](https://vimeo.com/22955812)
-- [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
-- [The Braitenberg Vehicles](https://youtu.be/A-fxij3zM7g) video by Brian Douglas
+- 🚂 [Perlin Noise Flow Field Coding Challenge: p5.js](https://thecodingtrain.com/CodingChallenges/024-perlinnoiseflowfield.html) - ~ 30 min
 
-## Finding closest point on line and dot product
+### Steering References
 
-- [Dot Product and Scalar Projection video](https://youtu.be/_ENEsV_kNx8) -- uses Processing
-- [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
-- [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
+- 📕 [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
+- 🎥 [Reas Process Compendium](https://vimeo.com/22955812)
+- 🎥 [The Braitenberg Vehicles](https://youtu.be/A-fxij3zM7g) video by Brian Douglas
 
-## QuadTree Optimization
+### Geometry References
 
-- [QuadTree Data Structure (Wikipedia)](https://en.wikipedia.org/wiki/Quadtree)
-- [QuadTree JS Library in Progress](https://github.com/CodingTrain/QuadTree)
-- [p5 web editor example](https://editor.p5js.org/natureofcode/sketches/Y8hseRvYe)
-- [QuadTree Coding Challenge 1](https://thecodingtrain.com/CodingChallenges/098.1-quadtree.html)
-- [QuadTree Coding Challenge 2](https://thecodingtrain.com/CodingChallenges/098.2-quadtree.html)
-- [QuadTree Coding Challenge 3](https://thecodingtrain.com/CodingChallenges/098.3-quadtree.html)
+- 📕 [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
+- 📕 [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
+
+### QuadTree Optimization
+
+- 📕 [QuadTree Data Structure (Wikipedia)](https://en.wikipedia.org/wiki/Quadtree)
+- 💻 [QuadTree JS Library in Progress](https://github.com/CodingTrain/QuadTree)
+- 💻 [QuadTree p5 example](https://editor.p5js.org/natureofcode/sketches/Y8hseRvYe)
+- 🚂 [QuadTree Coding Challenge 1](https://thecodingtrain.com/CodingChallenges/098.1-quadtree.html)
+- 🚂 [QuadTree Coding Challenge 2](https://thecodingtrain.com/CodingChallenges/098.2-quadtree.html)
+- 🚂 [QuadTree Coding Challenge 3](https://thecodingtrain.com/CodingChallenges/098.3-quadtree.html)
 
 ## Assignment
 
