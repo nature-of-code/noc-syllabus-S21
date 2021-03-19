@@ -4,7 +4,7 @@
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- [Chapter 6 DRAFT p5.js PDF](https://drive.google.com/file/d/1X4f2F9fs6Bz5OwkjDaY8TCrE1mUH9Umz/view?usp=sharing)
+- 📗 [Chapter 6 DRAFT p5.js PDF](https://drive.google.com/file/d/1X4f2F9fs6Bz5OwkjDaY8TCrE1mUH9Umz/view?usp=sharing)
 
 ### Part 1: Individual Behaviors Basics
 
