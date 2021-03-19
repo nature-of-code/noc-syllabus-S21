@@ -4,7 +4,7 @@
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- [Chapter 6 DRAFT p5.js PDF](https://drive.google.com/open?id=1x83NY1z_WvQ6jH3d6En7y8M0mhYrTCLl)
+- [Chapter 6 DRAFT p5.js PDF](https://drive.google.com/file/d/1X4f2F9fs6Bz5OwkjDaY8TCrE1mUH9Umz/view?usp=sharing)
 
 ### Part 1: Individual Behaviors Basics
 
@@ -35,6 +35,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Steering References
 
+- 📕 [Excerpts from Vehicles: Experiments in Synthetic Psychology By Valentino Braitenberg](https://drive.google.com/file/d/1iztmHNX7kmc96tgV44eVJLHsJTTmm_Hd/view?usp=sharing)
 - 📕 [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
 - 🎥 [Reas Process Compendium](https://vimeo.com/22955812)
 - 🎥 [The Braitenberg Vehicles](https://youtu.be/A-fxij3zM7g) video by Brian Douglas
