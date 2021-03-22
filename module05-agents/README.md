@@ -8,12 +8,12 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 ### Part 1: Individual Behaviors Basics
 
-- 🚂 [Introduction to Autonomous Agents](https://drive.google.com/file/d/1_n1Kt-E-7SvJ4Aho6wrWP_8rBQLF7Ckz/view?usp=sharing) - rough cut video, feedback welcome! - ~ 10 min
-- 🚂 [Steering Behaviors: Seeking a Target](https://drive.google.com/file/d/1VmVTeR3DcbybCvB7lr3eC_mwgms8I9dt/view?usp=sharing) - rough cut video, feedback welcome! - ~ 13 min
-- 🚧 Steering Behaviors: Pursue and Evade (coming soon!)
-- 🚧 Steering Behaviors: Arrival (coming soon!)
-- 🚧 Scalar Project and the Vector Dot Product (coming soon!)
-- 🚧 Path Following (coming soon!)
+- 🚧 [Introduction to Autonomous Agents](https://drive.google.com/file/d/1S2fj1h5IphOF3J3VURZSimODFscT5JTg/view?usp=sharing) - 10 min
+- 🚧 [Steering Behaviors: Seeking a Target](https://drive.google.com/file/d/1RMQ_9ujud6Byl0GauZcXVRytCBUFyzvt/view?usp=sharing) - 13 min
+- 🚧 [Steering Behaviors: Pursue and Evade](https://drive.google.com/file/d/189-jJdCJLe5vdfE32ps9DlJQ9bjHkUiQ/view?usp=sharing) - 13 min
+- 🚧 [Steering Behaviors: Arrival](https://drive.google.com/file/d/1owi0GU41BNa22qMdFiBQ2X5qDgH-Ug-5/view?usp=sharing) - 9 min
+- 🚧 [Scalar Project and the Vector Dot Product](https://drive.google.com/file/d/1A2GaR9aaUsaZzm3I5bCxPasYp6LDd1LX/view?usp=sharing) - 13 min
+- 🚧 [Path Following](https://drive.google.com/file/d/1hMjPkVPvT7SyoXJ5ATR5dNxAU10k2ixd/view?usp=sharing) - 15 min
 
 ### Part 2: Group and Combined Behaviors
 
