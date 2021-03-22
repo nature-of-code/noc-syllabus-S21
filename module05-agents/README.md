@@ -61,8 +61,9 @@ For each module, I will provide a list of additional video tutorials and reading
 Incorporate a steering behavior into a p5.js sketch. Here are some ideas:
 
 1. Expand / augment your simulation project incorporating the concept of a steering force: desired - velocity.
-2. Add visual design elements for the environment and agents in the flocking system. Are they birds, fish, insects, fictional creatures? How does varying the behavior itself (weights of forces) add to the experience?
-3. Try combining multiple steering behaviors into one agent. Can you create an interface (or set of rules) to control the weights of the various behaviors?
+2. Create a path for agents to follow that is interactive or changes over time. What if the path has multiple segments? Can the points that define the path itself have their own steering behaviors? 
+3. Add visual design elements for the environment and agents in the flocking system. Are they birds, fish, insects, fictional creatures? How does varying the behavior itself (weights of forces) add to the experience?
+4. Try combining multiple steering behaviors into one agent. Can you create an interface (or set of rules) to control the weights of the various behaviors?
 
 ## Emoji Key
 
