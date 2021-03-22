@@ -8,7 +8,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 ### Part 1: Individual Behaviors Basics
 
-🚧 These videos are in-progress "rough cuts." Not every detail is finalized and there may be mistakes / issues. If you have thoughts or comments please let me know! 🚧
+_These videos are in-progress "rough cuts." Not every detail is finalized and there may be mistakes / issues. If you have thoughts or comments please let me know!_
 
 - 🚧 [Introduction to Autonomous Agents](https://drive.google.com/file/d/1S2fj1h5IphOF3J3VURZSimODFscT5JTg/view?usp=sharing) - 10 min
 - 🚧 [Steering Behaviors: Seeking a Target](https://drive.google.com/file/d/1RMQ_9ujud6Byl0GauZcXVRytCBUFyzvt/view?usp=sharing) - 13 min
