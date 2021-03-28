@@ -36,7 +36,7 @@ For information on office hours, help sessions, please see the course Brightspac
 
 ### 8: Week of Mar 22 - [Autonomous Agents Part 2](module05-agents)
 
-### 9: Week of Mar 29 - [Fractals](module07-fractals) and [CA](module06-ca)
+### 9: Week of Mar 29 - [Fractals and Cellular Automata](module06-fractals-ca)
 
 ### 10: Week of Apr 5 - [Genetic Algorithms](module08-ga)
 
