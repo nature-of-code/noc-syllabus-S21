@@ -14,7 +14,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 📗 [Chapter 8 Fractals: DRAFT p5.js PDF](https://drive.google.com/file/d/1q38A1WltfYobzRhypAUnpshyMeqsXWgc/view?usp=sharing)
 - 🚂 [Recursion Coding Challenge](https://thecodingtrain.com/CodingChallenges/077-recursion.html) - 12 min
 - 🚂 [Fractal Tree Coding Challenge](https://thecodingtrain.com/CodingChallenges/014-fractaltree.html) - 15 min
-- 🚂 [Fractal Tree Animated Coding Challenge](https://thecodingtrain.com/CodingChallenges/015-fractaltreearray.html) - 22 min _(this video uses an older style of object-oriented programming in JavaScript, [here is the tree code with updated ES6 classes](https://editor.p5js.org/codingtrain/sketches/JDT5wrxVj).)_
+- 🚂 [Fractal Tree Animated Coding Challenge](https://thecodingtrain.com/CodingChallenges/015-fractaltreearray.html) - 22 min _(this video uses an outdated style of JS objects, but the [example code provided uses updated ES6 classes](https://editor.p5js.org/codingtrain/sketches/JDT5wrxVj).)_
 
 ### Code Examples
 
