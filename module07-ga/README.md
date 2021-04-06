@@ -43,9 +43,9 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Further Reading
 
-- [Galanter, Philip. "The Problem with Evolutionary Art Is…"](http://philipgalanter.com/downloads/evostar2010%20-%20galanter%20-%20the%20problem%20with%20evo%20art.pdf) Paper presented at EvoCOMNET’10: The 7th European Event on the Application of Nature-inspired Techniques for Telecommunication Networks and other Parallel and Distributed Systems, April 7-9, 2010.
-- [Sims, Karl. "Artificial Evolution for Computer Graphics."](http://www.karlsims.com/papers/siggraph91.html) Paper presented at SIGGRAPH '91: The 18th Annual Conference on Computer Graphics and Interactive Techniques, Las Vegas, NV, July 28-August 2, 1991.
-- [Sims, Karl. "Evolving Virtual Creatures."](http://www.karlsims.com/papers/siggraph94.pdf) Paper presented at SIGGRAPH '94: The 21st Annual Conference on Computer Graphics and Interactive Techniques, Orlando, FL, July 24-29, 1994.
+- 📕 [Galanter, Philip. "The Problem with Evolutionary Art Is…"](http://philipgalanter.com/downloads/evostar2010%20-%20galanter%20-%20the%20problem%20with%20evo%20art.pdf) Paper presented at EvoCOMNET’10: The 7th European Event on the Application of Nature-inspired Techniques for Telecommunication Networks and other Parallel and Distributed Systems, April 7-9, 2010.
+- 📕 [Sims, Karl. "Artificial Evolution for Computer Graphics."](http://www.karlsims.com/papers/siggraph91.html) Paper presented at SIGGRAPH '91: The 18th Annual Conference on Computer Graphics and Interactive Techniques, Las Vegas, NV, July 28-August 2, 1991.
+- 📕 [Sims, Karl. "Evolving Virtual Creatures."](http://www.karlsims.com/papers/siggraph94.pdf) Paper presented at SIGGRAPH '94: The 21st Annual Conference on Computer Graphics and Interactive Techniques, Orlando, FL, July 24-29, 1994.
 
 ## Assignment
 
