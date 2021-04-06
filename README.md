@@ -38,9 +38,9 @@ For information on office hours, help sessions, please see the course Brightspac
 
 ### 9: Week of Mar 29 - [Fractals and Cellular Automata](module06-fractals-ca)
 
-### 10: Week of Apr 5 - [Genetic Algorithms](module08-ga)
+### 10: Week of Apr 5 - [Genetic Algorithms](module07-ga)
 
-### 11: Week of Apr 12 - [Neural Evolution](module09-neuro)
+### 11: Week of Apr 12 - [Neural Evolution](module08-neuro)
 
 ### 12: Week of Apr 19 - [Final Project](projects/final)
 
