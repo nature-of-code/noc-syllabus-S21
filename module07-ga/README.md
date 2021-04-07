@@ -5,7 +5,7 @@
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
 - 📗 [Nature of Code Chapter 9: Genetic Algorithms](https://natureofcode.com/book/chapter-9-the-evolution-of-code/) (JS version of chapter not yet ready)
-- 📕 [Section 11.3 from Kate Compton’s Doctoral Thesis “Casual Creators”](http://www.galaxykate.com/pdfs/kcompton-dissertation-casualcreators.pdf) (p. 227 - 232) (2019)
+- 📕 [Section 11.3 from Kate Compton’s Doctoral Thesis “Casual Creators”](http://www.galaxykate.com/pdfs/kcompton-dissertation-casualcreators.pdf) (p. 262 - 267) (2019)
 - 🎥 [Karl Sims Evolved Virtual Creatures](https://youtu.be/RZtZia4ZkX8) - 4 min
 - 🚂 9.1 [Introduction to Genetic Algorithms](https://youtu.be/9zfeTw-uFCw?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 12 min
 - 🚂 9.2 [Genetic Algorithms How it Works](https://youtu.be/RxTfc4JLYKs?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 23 min
