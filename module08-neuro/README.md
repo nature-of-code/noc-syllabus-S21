@@ -46,8 +46,8 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Related Reinforcement Learning Tools
 
-- [Unity ml-agents](https://github.com/Unity-Technologies/ml-agents)
-- [OpenAI gym](https://gym.openai.com/)
+- 🛠 [Unity ml-agents](https://github.com/Unity-Technologies/ml-agents)
+- 🛠 [OpenAI gym](https://gym.openai.com/)
 
 ## Emoji Key
 
