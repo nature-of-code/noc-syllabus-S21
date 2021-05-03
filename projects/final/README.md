@@ -45,5 +45,5 @@ It's up to you to figure out how to best document your project, here are some lo
 * Inspiration: How did you become interested in this idea? Quotes, photographs, products, projects, people, music, political events, social ills, etc.
 * Process: How did you make this? What did you struggle with? What were you able to implement easily and what was difficult?
 * Audience/Context: Who is this for? How will people experience it? Is it interactive? Is it practical? Is it for fun? Is it emotional? Is it to provoke something?
-* Code references: What examples, tutorials, references did you use to create the project? (You must cite the source of any code you use in code comments with the exception of examples specifically provided by The Nature of Code book. Please note the following additional expectations and guidelines at the bottom of this page.)
+* Code references: What examples, tutorials, references did you use to create the project? (You must cite the source of any code you use in code comments with the exception of examples specifically provided by The Nature of Code book.)
 * Next steps: If you had more time to work on this, what would you do next?
