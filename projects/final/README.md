@@ -34,7 +34,7 @@ Stay tuned for an update regarding format for proposal sharing and feedback.
 
 ## Final Project Documentation
 
-To complete the course, please post your final project documentation to a web page (blog post is fine) and submit on the class Brightspace. The deadline is Monday, May 10th, however, if you need more time, there is flexibility so please be in touch. Additionally,see Brightspace for sign-ups tos share your work over Zoom.
+To complete the course, please post your final project documentation to a web page (blog post is fine) and submit on the class Brightspace. The deadline is Monday, May 10th, however, if you need more time, there is flexibility so please be in touch. Additionally, see Brightspace for sign-ups to share your work over Zoom.
 
 It's up to you to figure out how to best document your project, here are some loose guidelines if you aren't sure what to include.
 
