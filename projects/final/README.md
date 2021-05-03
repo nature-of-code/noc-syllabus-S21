@@ -31,3 +31,19 @@ Stay tuned for an update regarding format for proposal sharing and feedback.
 2. What about scope? Can it be done in such a short period of time under current circumstances?
 3. Suggestions for relevant tutorials, reference projects, or other resources?
 4. Are there ways this project can be "remote" user tested? What questions would you want to ask?
+
+## Final Project Documentation
+
+To complete the course, please post your final project documentation to a web page (blog post is fine) and submit on the class Brightspace. The deadline is Monday, May 10th, however, if you need more time, there is flexibility so please be in touch. Additionally,see Brightspace for sign-ups tos share your work over Zoom.
+
+It's up to you to figure out how to best document your project, here are some loose guidelines if you aren't sure what to include.
+
+* Title
+* Sketch link
+* One sentence description
+* Project summary (250-500 words)
+* Inspiration: How did you become interested in this idea? Quotes, photographs, products, projects, people, music, political events, social ills, etc.
+* Process: How did you make this? What did you struggle with? What were you able to implement easily and what was difficult?
+* Audience/Context: Who is this for? How will people experience it? Is it interactive? Is it practical? Is it for fun? Is it emotional? Is it to provoke something?
+* Code references: What examples, tutorials, references did you use to create the project? (You must cite the source of any code you use in code comments with the exception of examples specifically provided by The Nature of Code book. Please note the following additional expectations and guidelines at the bottom of this page.)
+* Next steps: If you had more time to work on this, what would you do next?
